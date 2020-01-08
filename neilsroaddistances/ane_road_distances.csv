@@ -1,0 +1,174 @@
+our_id,hospital,longitude,latitude,nLSOA,medianIMD,UrbScore,urb_binary,rank_perc,road_distance_city,road_distance_exeter,road_distance_warick
+1,Aintree University Hospital,-2.93,53.47,216,5875,2.95,urban,7,366.461,405.808,185.804
+2,Airedale General Hospital,-1.96,53.9,148,17703,1.78,rural,41,355.106,462.888,242.884
+3,St. Peter's Hospital,-0.53,51.38,187,26228,2.84,urban,97,98.349,248.696,164.695
+4,King George's Hospital,0.07,51.56,200,9889,3.0,urban,40,7.096,305.808,169.057
+5,Queen's Hospital,0.19,51.58,238,16146,2.84,urban,78,11.189,341.822,180.472
+6,Barnsley Hospital,-1.5,53.56,167,10592,2.46,rural,2,308.647,418.711,166.652
+7,Newham General Hospital,0.03,51.52,138,7080,3.0,urban,16,6.218,292.971,175.405
+8,The Royal London Hospital,-0.06,51.52,186,6152,3.0,urban,9,14.559,286.914,162.998
+9,Whipps Cross University Hospital,0.0,51.58,200,11295,2.99,urban,47,13.04,300.524,163.773
+10,Basildon University Hospital,0.46,51.57,180,18018,1.92,rural,47,34.419,345.409,192.094
+11,Bedford Hospital South Wing,-0.47,52.13,160,21357,1.63,rural,74,117.243,325.941,99.172
+12,Blackpool Victoria Hospital,-3.05,53.82,193,12357,1.94,rural,9,412.172,451.519,231.515
+13,Royal Bolton Hospital,-2.43,53.58,217,8770,2.9,urban,24,366.124,405.471,185.467
+14,Bradford Royal Infirmary,-1.75,53.79,303,9598,2.94,urban,38,334.291,454.874,211.69
+15,Princess Royal Hospital,-0.15,50.83,191,20648,1.94,rural,70,116.046,279.082,250.725
+16,Royal Sussex County Hospital,-0.12,50.82,101,16693,1.9,rural,32,117.134,279.397,251.813
+17,Stoke Mandeville Hospital,-0.8,51.8,164,28074,1.59,rural,99,99.687,280.827,106.812
+18,Calderdale Royal Hospital,-1.86,53.7,123,14090,2.63,urban,64,344.135,442.776,221.534
+19,Huddersfield Royal Infirmary,-1.78,53.65,140,14882,2.66,urban,71,338.261,440.951,189.921
+20,Addenbrooke's,0.14,52.17,250,24126,1.59,rural,88,84.208,356.845,142.16
+21,Chelsea and Westminster Hospital,-0.18,51.48,100,16926,3.0,urban,84,23.409,277.213,170.701
+22,West Middlesex University Hospital,-0.34,51.48,191,16330,3.0,urban,79,48.812,265.745,159.233
+23,Chesterfield Royal Hospital,-1.4,53.24,171,17338,2.03,rural,39,267.811,377.875,125.816
+24,Sunderland Royal Hospital,-1.41,54.9,191,7698,2.71,urban,19,443.331,581.644,329.585
+25,Countess of Chester Hospital,-2.9,53.21,125,21555,1.82,rural,75,338.461,377.808,157.804
+26,Darlington Memorial Hospital,-1.55,54.52,172,16535,1.59,rural,31,398.147,536.46,284.401
+27,University Hospital of North Durham,-1.59,54.79,199,11644,1.62,rural,5,432.533,570.846,318.787
+28,Croydon University Hospital,-0.11,51.39,260,12979,3.0,urban,57,29.47,284.807,183.743
+29,Darent Valley Hospital,0.26,51.44,245,15007,2.74,urban,72,25.12,320.96,196.646
+30,Bassetlaw Hospital,-1.12,53.3,105,14538,1.52,rural,23,249.561,391.101,139.042
+31,Doncaster Royal Infirmary,-1.13,53.52,214,11417,2.39,rural,4,272.024,410.237,158.178
+32,Dorset County Hospital,-2.45,50.71,87,17850,1.63,rural,45,238.442,89.083,275.134
+33,Lister Hospital,-0.15,51.49,74,12548,3.0,urban,55,20.559,279.598,157.075
+34,Macclesfield District General Hospital,-2.13,53.26,98,22109,1.79,rural,79,322.268,361.615,141.611
+35,Queen Elizabeth The Queen Mother Hospital,1.39,51.38,193,14463,1.82,rural,22,115.973,395.687,287.499
+36,William Harvey Hospital (Ashford),0.87,51.15,212,17853,1.67,rural,46,89.509,358.982,261.035
+37,Royal Blackburn Hospital,-2.48,53.75,244,8703,1.89,rural,0,394.999,434.346,214.342
+38,Colchester General Hospital,0.9,51.91,226,17052,1.58,rural,37,91.517,398.465,237.115
+39,Ipswich Hospital,1.2,52.06,225,18439,1.72,rural,50,123.757,430.705,224.632
+40,Conquest Hospital,0.57,50.89,113,13742,1.72,rural,17,103.283,362.311,274.809
+41,Eastbourne District General Hospital,0.27,50.79,123,19527,1.82,rural,62,112.711,311.449,279.322
+42,Epsom Hospital,-0.27,51.33,138,29077,2.75,urban,100,83.083,269.812,185.811
+43,St. Helier Hospital,-0.18,51.38,157,23500,3.0,urban,93,32.641,279.414,195.413
+44,Frimley Park Hospital,-0.74,51.32,276,27906,1.95,rural,98,90.149,226.086,179.317
+45,Wexham Park Hospital,-0.58,51.53,276,21966,1.93,rural,78,61.85,284.94,141.008
+46,Queen Elizabeth Hospital,-1.58,54.94,150,10320,2.86,urban,41,446.596,584.909,332.85
+47,George Eliot Hospital,-1.48,52.51,151,16808,1.85,rural,33,190.099,292.701,28.046
+48,Cheltenham General Hospital,-2.07,51.89,145,23335,1.75,rural,87,177.896,184.94,81.68
+49,Gloucestershire Royal Hospital,-2.23,51.87,209,19285,1.75,rural,58,188.552,178.693,111.051
+50,The Great Western Hospital,-1.73,51.54,243,23122,1.62,rural,85,155.796,195.115,113.518
+51,St. Thomas',-0.12,51.5,65,8545,3.0,urban,22,18.263,280.551,157.43
+52,Basingstoke and North Hampshire Hospital,-1.11,51.28,185,25804,1.72,rural,95,116.006,206.113,158.244
+53,Royal Hampshire County Hospital,-1.33,51.06,90,27261,1.66,rural,96,141.924,193.768,175.113
+54,Harrogate District Hospital,-1.52,53.99,124,24125,1.65,rural,88,334.231,472.544,220.485
+55,Homerton University Hospital,-0.05,51.55,170,6672,3.0,urban,12,14.769,292.442,162.462
+56,Hull Royal Infirmary,-0.36,53.74,307,14165,1.83,rural,19,308.112,479.195,227.136
+57,Charing Cross Hospital,-0.22,51.49,208,14859,3.0,urban,69,25.712,273.653,167.141
+58,St. Mary's Hospital (HQ),-0.17,51.52,139,8913,3.0,urban,28,22.964,281.346,153.381
+59,St. Mary's Hospital,-1.3,50.71,102,13965,1.73,rural,18,193.49,202.934,247.007
+60,James Paget University Hospital,1.72,52.56,157,13149,1.6,rural,12,212.319,495.626,271.917
+61,Kettering General Hospital,-0.74,52.4,193,17623,1.75,rural,40,154.602,341.571,66.48
+62,King's College Hospital,-0.09,51.47,198,7096,3.0,urban,17,22.478,284.632,161.602
+63,Princess Royal University Hospital,0.06,51.37,184,24568,2.65,urban,95,43.739,314.718,215.265
+64,Kingston Hospital,-0.28,51.41,161,26268,2.98,urban,98,34.286,262.74,178.865
+65,Chorley and South Ribble Hospital,-2.64,53.67,96,20323,1.79,rural,67,370.675,410.022,190.018
+66,Royal Preston Hospital,-2.71,53.79,150,20148,1.83,rural,65,388.139,427.486,207.482
+67,Leeds General Infirmary,-1.55,53.8,194,9077,2.96,urban,29,320.37,449.79,197.731
+68,St. James's Hospital,-1.52,53.81,173,16404,2.66,urban,81,322.21,451.63,199.571
+69,Queen Elizabeth Hospital,0.05,51.48,253,15461,3.0,urban,74,15.864,329.895,184.192
+70,University Hospital Lewisham,-0.02,51.45,220,10963,3.0,urban,43,21.641,292.436,189.969
+71,Ealing Hospital,-0.35,51.51,157,12178,3.0,urban,53,46.77,265.585,155.528
+72,Northwick Park Hospital,-0.32,51.58,302,16756,3.0,urban,83,41.461,272.29,141.912
+73,Luton and Dunstable Hospital,-0.48,51.9,370,18398,1.88,rural,50,83.534,306.695,102.867
+74,Maidstone Hospital,0.48,51.27,131,21667,1.66,rural,77,58.726,328.199,230.252
+75,Tunbridge Wells Hospital at Pembury,0.31,51.15,140,25304,1.57,rural,93,64.09,323.118,235.616
+76,Manchester Royal Infirmary,-2.23,53.46,217,7961,3.0,urban,21,347.843,387.19,167.186
+77,Wythenshawe Hospital,-2.29,53.39,181,22644,2.87,urban,91,340.131,379.478,159.474
+78,Medway Maritime Hospital,0.54,51.38,215,15152,1.86,rural,26,52.402,344.482,223.928
+79,Leighton Hospital,-2.48,53.12,174,19508,1.76,rural,61,309.005,348.352,128.348
+80,Broomfield Hospital,0.46,51.78,188,21298,1.71,rural,73,55.314,362.262,200.912
+81,Dewsbury and District Hospital,-1.65,53.7,151,11883,2.94,urban,52,330.51,440.574,188.515
+82,Pinderfields Hospital,-1.49,53.69,195,12631,2.35,rural,11,311.467,435.684,183.625
+83,Milton Keynes Hospital,-0.74,52.03,190,22277,1.86,rural,80,111.595,301.274,82.122
+84,Norfolk and Norwich University Hospital,1.22,52.62,327,17839,1.54,rural,43,171.889,455.196,231.487
+85,Southmead Hospital,-2.59,51.5,219,22309,1.86,rural,81,218.009,130.701,158.965
+86,Cumberland Infirmary,-2.96,54.9,120,16955,1.52,rural,35,499.274,563.433,343.429
+87,West Cumberland Hospital,-3.56,54.53,88,13407,1.41,rural,14,540.548,579.895,359.891
+88,North Middlesex University Hospital,-0.07,51.61,347,9099,2.98,urban,31,19.871,292.427,155.676
+89,University Hospital of North Tees,-1.35,54.58,170,12593,1.91,rural,10,408.36,546.673,294.614
+90,Hinchingbrooke Hospital,-0.2,52.33,112,24933,1.46,rural,90,117.412,383.468,108.377
+91,Peterborough City Hospital,-0.28,52.58,219,16972,1.74,rural,36,145.283,391.688,116.597
+92,Northampton General Hospital (Acute),-0.88,52.24,200,20506,1.75,rural,69,135.386,308.656,63.141
+93,North Devon District Hospital,-4.05,51.09,105,13238,1.42,rural,13,374.862,68.269,310.066
+94,"Diana, Princess of Wales Hospital",-0.1,53.54,151,11752,1.75,rural,6,273.419,466.812,191.331
+95,Scunthorpe General Hospital,-0.67,53.59,129,16412,1.57,rural,30,281.719,446.974,194.915
+96,Northumbria Specialist Emergency Care Hospital,-1.57,55.07,204,15442,1.93,rural,28,467.446,605.759,353.7
+97,Queen's Medical Centre Campus,-1.19,52.94,495,15239,2.76,rural,27,231.737,341.801,89.742
+98,Horton General Hospital,-1.34,52.05,98,22364,1.42,rural,81,151.137,249.529,52.212
+99,John Radcliffe Hospital,-1.22,51.76,131,27264,1.69,rural,97,112.835,247.711,91.174
+100,Fairfield General Hospital,-2.26,53.6,182,11296,2.75,urban,48,370.617,409.964,189.96
+101,North Manchester General Hospital,-2.23,53.52,137,5607,2.99,urban,5,369.318,408.665,188.661
+102,Royal Oldham Hospital,-2.12,53.55,168,9432,2.96,urban,34,363.413,402.76,182.756
+103,Poole Hospital,-1.95,50.74,183,19727,1.89,rural,63,202.81,130.576,239.502
+104,Queen Alexandra Hospital,-1.07,50.85,359,17826,1.94,rural,42,168.427,205.557,220.642
+105,Royal Berkshire Hospital,-0.96,51.45,259,26900,1.78,rural,96,95.81,256.676,156.846
+106,Royal Cornwall Hospital (Treliske),-5.09,50.27,252,11944,1.47,rural,7,455.442,146.207,425.897
+107,Royal Devon and Exeter Hospital (Wonford),-3.51,50.72,198,19456,1.62,rural,60,308.121,3.706,278.534
+108,Barnet Hospital,-0.22,51.65,235,20167,2.5,rural,65,32.222,305.361,144.011
+109,Royal Free Hospital,-0.17,51.55,284,13891,3.0,urban,62,36.926,284.897,151.488
+110,The Royal Liverpool University Hospital,-2.96,53.41,254,5075,3.0,urban,3,364.104,403.451,183.447
+111,Royal Surrey County Hospital,-0.61,51.24,173,28363,1.74,rural,100,103.441,237.247,185.337
+112,"Royal United Hospitals, Bath",-2.36,51.38,286,22739,1.73,rural,84,215.498,163.87,184.943
+113,Salford Royal,-2.32,53.49,164,13187,2.99,urban,59,355.495,394.842,174.838
+114,Salisbury District Hospital,-1.79,51.05,102,21166,1.33,rural,72,173.839,151.706,202.975
+115,City Hosptial,-1.93,52.49,141,4224,3.0,urban,0,217.857,255.852,37.2
+116,Sandwell District General Hospital,-1.99,52.53,180,6228,3.0,urban,10,227.816,258.661,47.159
+117,Northern General Hospital,-1.46,53.41,320,13644,2.91,rural,15,293.775,403.839,151.78
+118,King's Mill Hospital,-1.24,53.14,211,13140,2.01,rural,12,255.428,365.492,113.433
+119,Princess Royal Hospital,-2.51,52.71,140,14411,1.82,rural,21,266.828,306.175,86.171
+120,Royal Shrewsbury Hospital,-2.79,52.71,119,17118,1.46,rural,38,290.04,329.387,109.383
+121,The James Cook University Hospital,-1.21,54.55,208,10807,1.8,rural,3,401.867,540.18,288.121
+122,South Tyneside District Hospital,-1.43,54.97,154,8887,2.98,urban,26,453.651,591.964,339.905
+123,Warwick Hospital,-1.58,52.29,131,25467,1.71,rural,94,189.761,252.428,13.742
+124,Southend Hospital,0.69,51.55,252,16813,1.88,rural,34,51.875,362.865,209.645
+125,Southport and Formby District General Hospital,-2.98,53.63,112,19120,1.81,rural,55,377.724,417.071,197.067
+126,St. George's Hospital (London),-0.18,51.43,196,17434,3.0,urban,86,26.794,279.554,175.591
+127,Whiston Hospital,-2.78,53.42,230,6863,2.77,urban,14,352.144,391.491,171.487
+128,Stepping Hill Hospital,-2.13,53.38,184,20568,2.85,urban,90,348.866,388.213,168.209
+129,East Surrey Hospital,-0.16,51.22,254,23123,1.88,rural,86,74.678,282.424,198.423
+130,Tameside General Hospital,-2.07,53.49,163,11564,2.98,urban,50,343.74,397.238,177.234
+131,Musgrove Park Hospital,-3.12,51.01,189,16852,1.57,rural,35,298.028,52.437,233.232
+132,Russells Hall Hospital,-2.12,52.5,305,14294,2.63,urban,66,238.166,261.158,57.509
+133,Hillingdon Hospital,-0.46,51.53,131,14408,2.85,urban,67,54.422,260.321,147.089
+134,The Royal Victoria Infirmary,-1.62,54.98,277,15478,2.71,urban,76,455.343,593.656,341.597
+135,Princess Alexandra Hospital,0.09,51.77,217,22397,1.92,rural,82,35.905,332.123,170.773
+136,The Queen Elizabeth Hospital,0.45,52.76,138,12125,1.39,rural,8,163.912,449.291,174.2
+137,Rotherham Hospital,-1.36,53.43,182,9559,2.83,rural,1,289.706,399.77,147.711
+138,Royal Bournemouth Hospital,-1.82,50.75,181,21587,1.9,rural,76,199.438,142.733,236.13
+139,New Cross Hospital,-2.1,52.6,326,9450,2.88,urban,36,234.325,273.672,53.668
+140,Torbay Hospital,-3.55,50.48,184,15286,1.73,rural,27,338.889,36.623,309.344
+141,Grantham and District Hospital,-0.64,52.92,113,20329,1.64,rural,68,189.931,387.986,112.505
+142,Lincoln County Hospital,-0.52,53.23,136,19159,1.54,rural,57,240.259,412.908,137.427
+143,Pilgrim Hospital,-0.01,52.99,113,11310,1.42,rural,4,200.767,443.754,168.273
+144,University College Hospital,-0.14,51.52,105,9156,3.0,urban,33,20.039,281.031,155.655
+145,Burton Hospital,-1.66,52.82,137,20137,1.65,rural,64,243.521,316.234,66.279
+146,Royal Derby Hospital,-1.51,52.91,230,18200,1.83,rural,48,233.572,330.574,80.619
+147,Southampton General Hospital,-1.44,50.93,321,19111,1.92,rural,54,165.064,175.543,201.756
+148,Good Hope Hospital,-1.81,52.57,235,19014,2.54,rural,53,215.834,287.062,37.107
+149,Heartlands Hospital,-1.83,52.48,337,5064,2.95,urban,2,212.274,277.046,27.423
+150,Queen Elizabeth Hospital Birmingham,-1.94,52.45,257,11219,2.92,urban,45,223.111,250.243,42.454
+151,Bristol Royal Infirmary,-2.6,51.46,383,18809,1.9,rural,52,220.736,131.526,165.579
+152,University Hospital (Coventry),-1.44,52.42,268,15550,1.91,rural,29,181.554,271.522,15.298
+153,Leicester Royal Infirmary,-1.14,52.63,470,17847,1.86,rural,44,189.346,322.963,47.482
+154,Furness General Hospital,-3.21,54.14,81,15046,1.49,rural,25,485.812,525.159,305.155
+155,Royal Lancaster Infirmary,-2.8,54.04,129,19314,1.61,rural,59,413.846,453.193,233.189
+156,County Hospital,-2.1,52.81,118,21207,1.81,rural,73,254.857,294.204,74.2
+157,Royal Stoke University Hospital,-2.21,53.0,313,13970,1.88,rural,19,279.414,318.761,98.757
+158,Derriford Hospital,-4.11,50.42,275,13704,1.68,rural,16,379.616,77.35,350.071
+159,Manor Hospital,-1.22,51.76,152,22680,1.77,rural,83,112.835,247.711,91.174
+160,Warrington Hospital,-2.61,53.39,217,18791,2.0,rural,51,343.148,382.495,162.491
+161,Watford General Hospital,-0.4,51.65,271,25066,2.59,rural,91,50.197,284.227,132.781
+162,West Suffolk Hospital,0.71,52.23,136,18381,1.45,rural,49,123.73,407.037,183.328
+163,St. Richard's Hospital,-0.77,50.84,118,19169,1.59,rural,58,141.834,228.96,244.045
+164,Worthing Hospital,-0.36,50.82,175,20282,1.75,rural,66,129.24,262.08,263.919
+165,The Whittingdon Hospital,-0.7,52.16,27,25274,1.26,rural,92,120.633,317.233,79.288
+166,Arrowe Park Hospital,-3.1,53.37,164,19688,2.9,urban,88,377.103,416.45,196.446
+167,Alexandra Hospital,-1.91,52.28,123,20946,1.62,rural,71,210.425,235.545,45.0
+168,Worcestershire Royal Hospital,-2.18,52.19,180,17829,1.73,rural,42,233.949,215.722,68.524
+169,Royal Albert Edward Infirmary,-2.63,53.56,214,13358,2.81,urban,60,355.618,394.965,174.961
+170,The County Hospital,-2.71,52.06,123,14694,1.49,rural,24,241.02,212.562,115.854
+171,Yeovil District Hospital,-2.63,50.94,138,19143,1.31,rural,56,240.157,79.525,266.298
+172,Scarborough Hospital,-0.44,54.28,114,14238,1.65,rural,20,403.338,541.651,289.592
+173,The York Hospital,-1.08,53.97,200,24608,1.62,rural,89,340.967,479.28,227.221
