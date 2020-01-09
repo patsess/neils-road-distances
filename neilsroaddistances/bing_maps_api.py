@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 UNIVERSITY_LOCATIONS_DICT = {
-    'city': (51.5280, 0.1025),
+    'city': (51.5280, -0.1025),
     'exeter': (50.7365, -3.5344),
     'warick': (52.3793, -1.5615),
 }
@@ -90,5 +90,5 @@ if __name__ == '__main__':
     # print(road_distance)
 
     df = add_ane_road_distances_to_df(bing_maps_key=bing_maps_key)
-    # df.to_csv('ane_road_distances.csv', index=False)
+    df.to_csv('ane_road_distances.csv', index=False)
     print(df.head())
