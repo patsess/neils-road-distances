@@ -81,9 +81,19 @@ def add_ane_road_distances_to_df(bing_maps_key):
     return df
 
 
+def get_bing_maps_api_key():
+    """Get api key for Bing maps from file
+
+    :return api_key: (str)
+    """
+    with open('bing_maps_api_key.txt') as api_key_file:
+        api_key = api_key_file.read().strip()
+
+    return api_key
+
+
 if __name__ == '__main__':
-    bing_maps_key = (
-        "AhtYO2E66CUyY2BZ08rpx2bWAR_Aa7xegAkw8CZbpOjmDFReYxkoBkwDR7Npj5_A")
+    bing_maps_key = get_bing_maps_api_key()
     # road_distance = get_road_distance(
     #     coords1=(50.74, -3.53), coords2=(51.53, 0.10),
     #     bing_maps_key=bing_maps_key)
